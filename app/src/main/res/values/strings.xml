@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Giphy</string>
+    <string name="ok">OK</string>
+    <string name="try_again">Try Again</string>
+    <string name="error_title">Ooops! Something Went Wrong.</string>
+    <string name="search_giphy">Search Giphy</string>
+    <string name="no_search_results_found">No Search Results Found</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="unknown_error">Unknown Error</string>
+
+    <string-array name="tabs_names">
+        <item>Trending</item>
+        <item>Favourites</item>
+    </string-array>
+
+</resources>
